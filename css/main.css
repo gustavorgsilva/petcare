@@ -90,3 +90,16 @@ ul {
 li {
     margin-bottom: 15px;
 }
+
+#Farmacia {
+    gap: 32px;
+    padding: 80px 80px 24px 80px;
+}
+
+#farmacia-content{
+    text-align: center;
+}
+
+#farmacia-content .paragrafo{
+    margin: 0px 150px;
+}
