@@ -38,7 +38,7 @@ body{
 
 /* Configurações Seção INICIO */
 
-#inicio {
+#inicio, #Clinica {
     display: flex;
     align-items: center;
     gap: 32px;
@@ -81,4 +81,12 @@ h1, h2{
     z-index: -10;
 }
 
+ul {
+    margin-bottom: 70px;
+    margin-left: 30px;
 
+}
+
+li {
+    margin-bottom: 15px;
+}
