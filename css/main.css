@@ -150,7 +150,8 @@ li {
 }
 
 footer {
-    background-color: rgba(245, 145, 102, 0.25);
+    color: #FFF;
+    background-color: #7F15E2;
     display: flex;
     justify-content: space-between;
     gap: 80px;
@@ -165,7 +166,7 @@ footer .titulo {
 }
 
 footer nav a {
-    color: #222b31;
+    color: #fff;
     display: block;
     margin-bottom: 16px;
     text-decoration: none;
@@ -178,7 +179,7 @@ footer p {
 }
 
 footer p a {
-    color: #FE503A;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -190,7 +191,7 @@ footer p a {
 }
 
 #copyright a {
-    color: #FF9A6C;
+    color: #9f4aee;
     text-decoration: none;
     padding: 3px;
 }
