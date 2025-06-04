@@ -14,7 +14,7 @@ body{
 
 /* Cabeçalho - Menu */
 .menu {
-    background-color: #FF9A6C;
+    background-color: #7F15E2;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -58,7 +58,7 @@ h1, h2{
 }
 
 .botao { 
-    background-color: #FF9A6C;
+    background-color: #7F15E2;
     border-radius: 8px;
     color: #FFF;
     padding: 16px 32px;
@@ -68,7 +68,7 @@ h1, h2{
 
 .botao-transparente{
     background-color: transparent;
-    color: #FF725E;
+    color: #7F15E2;
     padding: 16px 32px;
     text-underline-offset: 4px;
 }
@@ -116,7 +116,7 @@ li {
 }
 
 .duvida h3 {
-    border: 2px solid #FF725E;
+    border: 2px solid #7F15E2;
     border-radius: 8px;
     cursor: pointer;
     padding: 24px;
@@ -130,9 +130,9 @@ li {
 }
 
 .duvida .paragrafo {
-    border-right: 1px solid #FF725E;
-    border-bottom: 1px solid #FF725E;
-    border-left: 1px solid #FF725E;
+    border-right: 1px solid #7F15E2;
+    border-bottom: 1px solid #7F15E2;
+    border-left: 1px solid #7F15E2;
     border-radius: 0 0 8px 8px;
     margin-top: -8px;
     padding: 10px 24px;
@@ -150,7 +150,8 @@ li {
 }
 
 footer {
-    background-color: rgba(245, 145, 102, 0.25);
+    color: #FFF;
+    background-color: #7F15E2;
     display: flex;
     justify-content: space-between;
     gap: 80px;
@@ -165,7 +166,7 @@ footer .titulo {
 }
 
 footer nav a {
-    color: #222b31;
+    color: #fff;
     display: block;
     margin-bottom: 16px;
     text-decoration: none;
@@ -178,7 +179,7 @@ footer p {
 }
 
 footer p a {
-    color: #FE503A;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -190,7 +191,7 @@ footer p a {
 }
 
 #copyright a {
-    color: #FF9A6C;
+    color: #9f4aee;
     text-decoration: none;
     padding: 3px;
 }
