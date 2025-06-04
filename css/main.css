@@ -116,7 +116,7 @@ li {
 }
 
 .duvida h3 {
-    border: 2px solid #FF725E;
+    border: 2px solid #7F15E2;
     border-radius: 8px;
     cursor: pointer;
     padding: 24px;
@@ -130,9 +130,9 @@ li {
 }
 
 .duvida .paragrafo {
-    border-right: 1px solid #FF725E;
-    border-bottom: 1px solid #FF725E;
-    border-left: 1px solid #FF725E;
+    border-right: 1px solid #7F15E2;
+    border-bottom: 1px solid #7F15E2;
+    border-left: 1px solid #7F15E2;
     border-radius: 0 0 8px 8px;
     margin-top: -8px;
     padding: 10px 24px;
